@@ -1,0 +1,5 @@
+happy:0
+sad:0
+angry:0
+surprise:0
+fear:0
